@@ -10,7 +10,7 @@ Successfully Scanned Hosts (IP): ROOT > IP. Iterate through all IP tags.
 Example
 =======
 <pre>
-$ python list_ips.py Scan_Results_quays_pb27_20130821_scan_1377
+$ python list_ips.py Scan_Results_subsc_usr1_20130821_scan_1377
 093123_44396.xml
 IP targets:
 10.20.30.100,64.39.106.1,64.39.106.242-64.39.106.249 
